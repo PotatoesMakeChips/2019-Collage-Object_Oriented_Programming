@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+d:\student\clo17462858\cpp\project1\project1\myform.h(378): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\student\clo17462858\cpp\project1\project1\myform.h(383): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\student\clo17462858\cpp\project1\project1\myform.h(388): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  pinkData.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\student\CLO17462858\cpp\Project1\Debug\Project1.exe
